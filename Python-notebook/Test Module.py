@@ -1,4 +1,6 @@
-import math, sys
+print ("Hissssss...")
 
-print(math.sin(90))
-print(math.pi)
+
+print ("roar, meow oink")
+
+print ("Hello!")
